@@ -139,3 +139,5 @@ fi
 set -o vi
 
 PATH=$PATH:/home/p1xel/.local/bin
+
+export _JAVA_AWT_WM_NONREPARENTING=1
